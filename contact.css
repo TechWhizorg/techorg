@@ -180,6 +180,7 @@ body {
     color: white;
     text-align: center;
     align-items: end;
+    justify-content: end ;
   }
 
   .footer{
