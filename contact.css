@@ -173,7 +173,7 @@ body {
 
 
   .main-footer{
-    position: relative;
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -280,10 +280,7 @@ body {
     height: auto;
     margin-bottom: 0.5rem;
   }
-  .copyright-box{
-    =
-   
-  }
+
 
   .copyright-des{
     font-size: 0.7rem;
