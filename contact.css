@@ -217,6 +217,7 @@ body {
   display: flex;
   flex-direction: column;
   margin-bottom: 8rem;
+  margin-left: 1.5rem;
 }
 
 .chat-box {
